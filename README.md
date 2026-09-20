@@ -18,11 +18,11 @@ Customer (WhatsApp) -> Meta Cloud API -> ngrok -> n8n
 
 <img width="1919" height="826" alt="Screenshot 2026-09-20 230728" src="https://github.com/user-attachments/assets/106c94bd-b4ad-4af3-9c6a-5df7ae2b67be" />
 
-<img width="1278" height="909" alt="Screenshot 2026-09-20 230903" src="https://github.com/user-attachments/assets/5b8cd5ff-3b3e-4f0a-bef5-1c85a0bc62b4" />
+<img width="1291" height="475" alt="Screenshot 2026-09-20 232357" src="https://github.com/user-attachments/assets/0d042408-74c7-425b-b36f-1f2870e0a7c7" />
 
 <img width="1910" height="794" alt="Screenshot 2026-09-20 230852" src="https://github.com/user-attachments/assets/c5ef0bae-340f-4139-bd88-bb3aa692be99" />
 
-<img width="1278" height="909" alt="Screenshot 2026-09-20 230903" src="https://github.com/user-attachments/assets/36edc69e-e9e5-4841-980f-53b23782cebd" />
+<img width="1276" height="476" alt="Screenshot 2026-09-20 232406" src="https://github.com/user-attachments/assets/8a668b80-f263-46b2-bfb7-5900e897fbd3" />
 
 
 
