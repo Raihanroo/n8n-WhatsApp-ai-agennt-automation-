@@ -8,6 +8,14 @@ A WhatsApp customer-support bot built with n8n. It receives customer messages th
 Customer (WhatsApp) -> Meta Cloud API -> ngrok -> n8n
   WhatsApp Trigger -> AI Agent (Gemini + Memory + Google Sheets tools) -> WhatsApp Send message
 ```
+<img width="1600" height="435" alt="WhatsApp Image 2026-09-19 at 5 06 23 PM" src="https://github.com/user-attachments/assets/79184de7-5ea8-4a86-ad87-8201877474f4" />
+
+<img width="1600" height="686" alt="WhatsApp Image 2026-09-19 at 3 31 08 PM" src="https://github.com/user-attachments/assets/68a85ea1-01bc-4ae0-ba4a-37151c0b6e63" />
+
+<img width="1600" height="533" alt="WhatsApp Image 2026-09-19 at 4 37 13 PM" src="https://github.com/user-attachments/assets/98f58a05-3668-41d2-b6b1-76e7b9fd8540" />
+
+<img width="1600" height="435" alt="WhatsApp Image 2026-09-19 at 5 06 23 PM" src="https://github.com/user-attachments/assets/a2ff41ce-1893-464a-9333-a9e651676a5e" />
+
 <img width="1919" height="826" alt="Screenshot 2026-09-20 230728" src="https://github.com/user-attachments/assets/106c94bd-b4ad-4af3-9c6a-5df7ae2b67be" />
 
 <img width="1278" height="909" alt="Screenshot 2026-09-20 230903" src="https://github.com/user-attachments/assets/5b8cd5ff-3b3e-4f0a-bef5-1c85a0bc62b4" />
